@@ -1,0 +1,5 @@
+IP: 158.160.227.112;
+name_taski: https://myhostartrus.servehttp.com;
+name_kittygram: https://kittygramartrus.servehttp.com;
+login: ubuntu;
+password: ubuntu;
